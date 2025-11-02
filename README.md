@@ -1,0 +1,2 @@
+# QRStudc
+QR Code Generator
